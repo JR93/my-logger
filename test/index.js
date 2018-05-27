@@ -1,4 +1,4 @@
-const myLogger = require('../dist/my-logger');
+const myLogger = require('../dist/simple-logger-util');
 
 myLogger.success('I\'m success message.');
 myLogger.error('I\'m error message.');

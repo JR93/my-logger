@@ -9,12 +9,12 @@ this is a simple logger tool which is easy to use in project.
 ## Install
 
 ```
-npm install my-logger
+npm install simple-logger-util
 ```
 
 ## Usage
 
 ```
-const myLogger = require('../dist/my-logger');
+const myLogger = require('simple-logger-util');
 myLogger.success('I\'m success message.');
 ```
