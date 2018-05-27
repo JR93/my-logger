@@ -1,5 +1,5 @@
 <h1 align="center">
-  MyLogger
+  simple-logger-util
 </h1>
 
 ## Description
