@@ -1,7 +1,7 @@
 {
   "name": "simple-logger-util",
-  "version": "0.1.0",
-  "description": "this is a logger tool which is easy to use in project",
+  "version": "0.1.1",
+  "description": "this is a simple logger tool which is easy to use in node program",
   "main": "dist/simple-logger-util.js",
   "scripts": {
     "build": "rollup -c",
