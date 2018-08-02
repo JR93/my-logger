@@ -4,7 +4,7 @@
 
 ## Description
 
-this is a simple logger tool which is easy to use in node program.
+A simple logger tool.
 
 ## Install
 
